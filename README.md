@@ -2,8 +2,8 @@
 Mostly Eurorack modules. Mostly designed by me.
 
 # Doei
-Doei is a headphone amp, based on the CMoy schematic. Yet to be tested.
-To Do: make resistors bigger. Reverse Pot. Add pot value. Redesign panel. Add instructions.
+Doei is a headphone amp, based on the CMoy schematic. Prototype tested. V1 not tested yet.
+To Do: Redesign panel. Add instructions.
 
 
 # PACO!
