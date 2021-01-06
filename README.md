@@ -3,6 +3,7 @@ Mostly Eurorack modules. Mostly designed by me.
 
 # Doei
 Doei is a headphone amp, based on the CMoy schematic. Yet to be tested.
+Note: Add protection diodes
 
 
 # PACO!
