@@ -35,5 +35,6 @@ A straight-forward distortion module to bring a bit more character to your borin
 Link: http://familjenronnberg.se/~niklas/diy/eurorack/dist/
 
 The module is 5HP wide. A TL072 should work as well.
+You can also choose to download the PCB version of the panel.
 
-To Do: Add panel. Test V1.
+To Do: Test V1.
