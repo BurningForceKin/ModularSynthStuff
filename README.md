@@ -10,7 +10,7 @@ There is still a lot of things to do, like ordering my own PCBs to test them (Ye
 # Doei
 Doei is a headphone amp, based on the CMoy schematic. Prototype tested. V1 not tested yet.
 
-To Do: Redesign panel. Add instructions.
+To Do: Redesign panel. Add instructions. Test V1.
 
 
 # PACO!
@@ -26,7 +26,7 @@ Link: https://www.lookmumnocomputer.com/projects#/1222-performance-vco
 
 The module is 5HP wide. It only takes power from the +12V rail and converts it to 5V.
 
-To Do: Test V1. Make panel look cooler. Add a mounting hole to connect to the panel better.
+To Do: Test V1. Make panel look cooler.
 
 
 # Distortion
