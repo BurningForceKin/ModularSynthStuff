@@ -12,7 +12,7 @@ Doei is a headphone amp, based on the CMoy schematic. Prototype tested. V1 not t
 
 To Do: Redesign panel. Add instructions.
 
-V1 Test notes: Use UNSHROUDED header for power. A100K pot works, but A200K might be even better. New panel needed!
+V1 Test notes: Use UNSHROUDED header for power. A100K pot works, but A200K might be even better.
 
 
 # PACO!
