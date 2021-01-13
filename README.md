@@ -28,7 +28,6 @@ Link: https://www.lookmumnocomputer.com/projects#/1222-performance-vco
 
 The module is 5HP wide. It only takes power from the +12V rail and converts it to 5V.
 
-V1 Test notes: Move powerheader down or sideways to prevent Arduino collision. Use bigger transistor footprint.
 
 # Distortion
 A straight-forward distortion module to bring a bit more character to your boring oscillators. The circuit is based on Niklas Ronnberg's distortion. My version removes the hardclipping (now it only does softclipping) and adds a bypass switch.
