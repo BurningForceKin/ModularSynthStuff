@@ -20,13 +20,19 @@ PACO! is a simple routing module, double signal splitter or bypasser. It's just 
 
 To Do: Add photos.
 
+V1 Test Notes: Use a SPDT switch with round legs. The common ones with rectangular legs won't fit right. V2 will have a better footprint for the switch.
+
 
 # Tuner
 Handy for keeping your synth in tune during gigs. It's a Eurorack recreation of LMNC's tuner schematic, as seen in his VCO module. 
 
 Link: https://www.lookmumnocomputer.com/projects#/1222-performance-vco
 
+This module isn't supposed to be super accurate, so don't trust it too much. I just use it to make sure my oscillator is set to the right frequency. (It sounds like an A when I hit the A on my keyboard)
+
 The module is 5HP wide. It only takes power from the +12V rail and converts it to 5V.
+
+V1 Test Notes: Use UNSHROUDED header for power. IT WORKS!! LEDs are a bit bright, so I might increase the resistor values.
 
 
 # Distortion
@@ -37,4 +43,4 @@ Link: http://familjenronnberg.se/~niklas/diy/eurorack/dist/
 The module is 5HP wide. A TL072 should work as well.
 You can also choose to download the PCB version of the panel.
 
-V1 Test notes: Move diodes away from powerheader. Show -12V on back. Add new SPDT footprint, move higher. 
+V1 Test notes: It hase the same SPDT footprint as PACO!, so make sure you use a switch with round legs. Alternatively, you can connect the lower two pins on the switch's footprint, so it's always on. That way can ditch the switch altogether.
