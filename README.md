@@ -43,4 +43,6 @@ Link: http://familjenronnberg.se/~niklas/diy/eurorack/dist/
 The module is 5HP wide. A TL072 should work as well.
 You can also choose to download the PCB version of the panel.
 
-V1 Test notes: It hase the same SPDT footprint as PACO!, so make sure you use a switch with round legs. Alternatively, you can connect the lower two pins on the switch's footprint, so it's always on. That way can ditch the switch altogether.
+V1 Test notes: The pot is reversed :( It hase the same SPDT footprint as PACO!, so make sure you use a switch with round legs. Alternatively, you can connect the lower two pins on the switch's footprint, so it's always on. That way can ditch the switch altogether. Also, the position of the switch makes it look a little weird...
+
+To Do: Make PCb 4HP. Add LED clipping. Reverse pot. 
