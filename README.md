@@ -35,6 +35,10 @@ The module is 5HP wide. It only takes power from the +12V rail and converts it t
 V1 Test Notes: Use UNSHROUDED header for power. IT WORKS!! LEDs are a bit bright, so I might increase the resistor values.
 
 
+# Braids
+I added some files for people who want to make a Through-hole Braids. You can download a PDF of my building instructions and a 3D file of the front panel.
+
+
 # Distortion
 A straight-forward distortion module to bring a bit more character to your boring oscillators. The circuit is based on Niklas Ronnberg's distortion. My version removes the hardclipping (now it only does softclipping) and adds a bypass switch.
 
