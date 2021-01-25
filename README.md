@@ -16,9 +16,9 @@ V1 Test notes: Use UNSHROUDED header for power. A100K pot works, but A200K might
 # PACO!
 PACO! is a simple routing module, double signal splitter or bypasser. It's just a bunch of jacks connected to a toggle switch.
 
-To Do: Add photos.
-
 V1 Test Notes: Use a SPDT switch with round legs. The common ones with rectangular legs won't fit right. V2 will have a better footprint for the switch.
+
+Ready to go! Features a zine to print out.
 
 
 # Tuner
