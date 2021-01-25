@@ -8,9 +8,7 @@ There is still a lot of things to do, like ordering my own PCBs to test them (Ye
 
 
 # Doei
-Doei is a headphone amp, based on the CMoy schematic. Prototype tested. V1 not tested yet.
-
-To Do: Redesign panel. Add instructions.
+Doei is a headphone amp, based on the CMoy schematic. V1 ready to go! Now including a zine!
 
 V1 Test notes: Use UNSHROUDED header for power. A100K pot works, but A200K might be even better.
 
