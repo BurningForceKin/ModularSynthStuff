@@ -49,4 +49,19 @@ You can also choose to download the PCB version of the panel.
 
 V1 Test notes: The pot is reversed :( It hase the same SPDT footprint as PACO!, so make sure you use a switch with round legs. Alternatively, you can connect the lower two pins on the switch's footprint, so it's always on. That way can ditch the switch altogether. Also, the position of the switch makes it look a little weird...
 
-To Do: Make PCb 4HP. Add LED clipping. Reverse pot. 
+To Do: Make PCb 4HP. Add LED clipping. Reverse pot. Redesign panel.
+
+
+# Wesp
+A Wasp-type filter. I used Jurgen Haibles'schematic for this one, so all the credit should to him. The only options to get your hands on a Wasp filter nowadays is to get the Doepfer filter or the Berhinger Wasp Deluxe. If you want to DIY it you can get the Random Source dual filter or Forestcaver's SMD PCB (or maybe something else). All of which are great filters! Unfortunately I'm stubborn idiot, so I tried designing my own version.
+This is the first dubble-PCB design. It only needs the +12V line to make +5V. Not sure if the PSU will like this, though.
+
+To Do: Test V1. Try it out with hex-Schmitt triggers. Design panel.
+
+
+# Omnitool
+A utility module inspired by the MS-20. It features a glide, S&H and manual button. The button is normalled to the S&H clock-input. It also has a negative output, which should act as an S-Trig.
+
+The module uses little parts, so the build will be really easy. The only part that is tricky to find is the LF398 IC. Luckily, I found one on Aliexpress. The button can be any single-pole momentary switch, as long as it fits the panel. I will design the panel for a Cherry switch.
+
+To Do: Test V1. Design panel.
