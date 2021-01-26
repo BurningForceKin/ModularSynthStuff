@@ -22,7 +22,7 @@ Ready to go! Features a zine to print out.
 
 
 # Tuner
-Handy for keeping your synth in tune during gigs. It's a Eurorack recreation of LMNC's tuner schematic, as seen in his VCO module. 
+Handy for keeping your synth in tune during gigs. It's a Eurorack recreation of LMNC's tuner schematic, as seen in his VCO module. This one also features a zine!
 
 Link: https://www.lookmumnocomputer.com/projects#/1222-performance-vco
 
@@ -31,6 +31,8 @@ This module isn't supposed to be super accurate, so don't trust it too much. I j
 The module is 5HP wide. It only takes power from the +12V rail and converts it to 5V.
 
 V1 Test Notes: Use UNSHROUDED header for power. IT WORKS!! LEDs are a bit bright, so I might increase the resistor values.
+
+V2 Notes: Printing error at the powerheader :/
 
 
 # Braids
