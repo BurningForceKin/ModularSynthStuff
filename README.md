@@ -56,7 +56,7 @@ This is the first dubble-PCB design. It only needs the +12V line to make +5V. No
 
 Link: http://modular.fonik.de/pdf/Wasp%20Filter%20clone.pdf
 
-To Do: Test V1. Try it out with hex-Schmitt triggers. Design panel.
+To Do: Test V1. Try it out with hex-Schmitt triggers.
 
 
 # Omnitool
@@ -64,4 +64,4 @@ A utility module inspired by the MS-20. It features a glide, S&H and manual butt
 
 The module uses little parts, so the build will be really easy. The only part that is tricky to find is the LF398 IC. Luckily, I found one on Aliexpress. The button can be any single-pole momentary switch, as long as it fits the panel. I will design the panel for a Cherry switch.
 
-To Do: Test V1. Design panel.
+To Do: Test V1.
