@@ -54,6 +54,8 @@ To Do: Make PCb 4HP. Add LED clipping. Reverse pot. Redesign panel.
 A Wasp-type filter. I used Jurgen Haibles'schematic for this one, so all the credit should to him. The only options to get your hands on a Wasp filter nowadays is to get the Doepfer filter or the Berhinger Wasp Deluxe. If you want to DIY it you can get the Random Source dual filter or Forestcaver's SMD PCB (or maybe something else). All of which are great filters! Unfortunately I'm stubborn idiot, so I tried designing my own version.
 This is the first dubble-PCB design. It only needs the +12V line to make +5V. Not sure if the PSU will like this, though.
 
+Link: http://modular.fonik.de/pdf/Wasp%20Filter%20clone.pdf
+
 To Do: Test V1. Try it out with hex-Schmitt triggers. Design panel.
 
 
