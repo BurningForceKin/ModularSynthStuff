@@ -58,7 +58,8 @@ This is the first dubble-PCB design. It only needs the +12V line to make +5V. No
 
 Link: http://modular.fonik.de/pdf/Wasp%20Filter%20clone.pdf
 
-To Do: Test V1. Try it out with hex-Schmitt triggers.
+V1 Test notes: IT WORKS DUDE! There are a few things to update. Add a voltageclamp and diode on the CV input. Add attenuator? Cuttoff is logaritmic. Discard or fix distortion (make it louder plz).
+The resonance is the right way around, i think. Also, Schmitt-triggers make it go nuts.
 
 
 # Omnitool
