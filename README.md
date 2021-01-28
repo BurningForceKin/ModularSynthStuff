@@ -1,4 +1,4 @@
-![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/LOGO.png)
+![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/LOGO.png) ![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/LOGO.png)
 
 
 # ModularSynthStuff
