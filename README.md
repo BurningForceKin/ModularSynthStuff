@@ -28,7 +28,7 @@ Ready to go! Features a zine to print out.
 
 # [Tuner](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/Tuner)
 Handy for keeping your synth in tune during gigs. It's a Eurorack recreation of LMNC's tuner schematic, as seen in his VCO module. This one also features a zine!
-![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/TUNERFOTO.png)
+![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/TUNAFOTO.png)
 
 Link: https://www.lookmumnocomputer.com/projects#/1222-performance-vco
 
