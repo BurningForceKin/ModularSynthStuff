@@ -1,3 +1,6 @@
+[image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/LOGO.png)
+
+
 # ModularSynthStuff
 Mostly Eurorack modules. Mostly designed by me.
 These PCBs are made in Kicad.
