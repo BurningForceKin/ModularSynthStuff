@@ -9,7 +9,7 @@ If you have a 3D printer, you can save a few bucks by printing the panels. Just 
 There is still a lot of things to do, like ordering my own PCBs to test them (Yes, I still don't know if all the modules will work.) and opening a little shop to sell single boards/partial kits.
 
 
-# Doei
+# [Doei](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/HeadphoneOutV1)
 Doei is a headphone amp, based on the CMoy schematic. V1 ready to go! Now including a zine!
 
 V1 notes: Use UNSHROUDED header for power. A100K pot works, but A200K might be even better.
