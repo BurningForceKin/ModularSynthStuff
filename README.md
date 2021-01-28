@@ -13,7 +13,7 @@ Doei is a headphone amp, based on the CMoy schematic. V1 ready to go! Now includ
 V1 Test notes: Use UNSHROUDED header for power. A100K pot works, but A200K might be even better.
 
 
-# PACO!
+# [PACO!](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/Paco)
 PACO! is a simple routing module, double signal splitter or bypasser. It's just a bunch of jacks connected to a toggle switch.
 
 V1 Test Notes: Use a SPDT switch with round legs. The common ones with rectangular legs won't fit right. V2 will have a better footprint for the switch.
