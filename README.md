@@ -12,12 +12,14 @@ There is still a lot of things to do, like ordering my own PCBs to test them (Ye
 
 # [Doei](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/HeadphoneOutV1)
 Doei is a headphone amp, based on the CMoy schematic. V1 ready to go! Now including a zine!
+![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/DOEIFOTO.png)
 
 V1 Test notes: Use UNSHROUDED header for power. A100K pot works, but A200K might be even better.
 
 
 # [PACO!](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/Paco)
 PACO! is a simple routing module, double signal splitter or bypasser. It's just a bunch of jacks connected to a toggle switch.
+![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/PACOFOTO.png)
 
 V1 Test Notes: Use a SPDT switch with round legs. The common ones with rectangular legs won't fit right. V2 will have a better footprint for the switch.
 
@@ -26,6 +28,7 @@ Ready to go! Features a zine to print out.
 
 # [Tuner](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/Tuner)
 Handy for keeping your synth in tune during gigs. It's a Eurorack recreation of LMNC's tuner schematic, as seen in his VCO module. This one also features a zine!
+![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/TUNERFOTO.png)
 
 Link: https://www.lookmumnocomputer.com/projects#/1222-performance-vco
 
@@ -56,6 +59,8 @@ To Do: Make PCb 4HP. Add LED clipping. Reverse pot. Redesign panel.
 
 
 # [Wesp](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/Wesp)
+![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/WESPFOTO.png)
+
 A Wasp-type filter. I based it on Jurgen Haibles'schematic, so all the credit should to him. This version uses a LM13700 instead of two CA3080s. The only options to get your hands on a Wasp filter nowadays is to get the Doepfer filter or the Berhinger Wasp Deluxe. If you want to DIY it you can get the Random Source dual filter or Forestcaver's SMD PCB (or maybe something else). All of which are great filters! Unfortunately I'm a stubborn idiot, so I tried designing my own version.
 This is the first dubble-PCB design. It only needs the +12V line to make +5V. Not sure if the PSU will like this, though.
 
