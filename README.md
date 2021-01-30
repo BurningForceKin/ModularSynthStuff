@@ -74,6 +74,7 @@ Link: http://modular.fonik.de/pdf/Wasp%20Filter%20clone.pdf
 
 V1 Test notes: IT WORKS DUDE! There are a few things to update. Add a voltageclamp and diode on the CV input. Add attenuator? Cuttoff is logaritmic. Discard or fix distortion (make it louder plz). 5V regulator footprint is the wrong way around.
 The resonance is the right way around, i think. Also, Schmitt-triggers make it go nuts.
+
 Copyright note: Jurgen's new site states that all his designs are for educational purposes only, and I want to respect that. So, I won't be selling this module in the future, unless I've changed the design significantly.
 V2 removed the distortion and added CV-attenuation. To make it even more original, V3 should have a boosted distortion, only LP/HP/BP, CV-att, and self-oscillation.
 
