@@ -43,6 +43,8 @@ V1 Test Notes: Use UNSHROUDED header for power. IT WORKS!! LEDs are a bit bright
 
 V2 Notes: Printing error at the powerheader :/
 
+Copyright notes: This module is obviously ripped from LMNC's VCO (which is copied from someone elses tuner). I'm not selling this design, untill I have premission.
+
 
 # Braids
 I added some files for people who want to make a Through-hole Braids. You can download a PDF of my building instructions and a 3D file of the front panel.
@@ -72,6 +74,8 @@ Link: http://modular.fonik.de/pdf/Wasp%20Filter%20clone.pdf
 
 V1 Test notes: IT WORKS DUDE! There are a few things to update. Add a voltageclamp and diode on the CV input. Add attenuator? Cuttoff is logaritmic. Discard or fix distortion (make it louder plz). 5V regulator footprint is the wrong way around.
 The resonance is the right way around, i think. Also, Schmitt-triggers make it go nuts.
+Copyright note: Jurgen's new site states that all his designs are for educational purposes only, and I want to respect that. So, I won't be selling this module in the future, unless I've changed the design significantly.
+V2 removed the distortion and added CV-attenuation. To make it even more original, V3 should have a boosted distortion, only LP/HP/BP, CV-att, and self-oscillation.
 
 
 # [Omnitool](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/Omnitool)
