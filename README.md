@@ -86,3 +86,7 @@ The module uses little parts, so the build will be really easy. The only part th
 
 V1 Notes: The glide works, but is a bit twitchy. (Make the cap smaller?) The button only works on the 0>5V side, but with a noticable delay when combined with a Doepfer EG. The LED is routed wrong :( The LF398 is yet to be tested. Als, the transistor/powerconverter footprints are wrong. And the Cherry switch needs to fit better.
 A total failure? Yes, but also no.
+
+
+# [Printable Panels](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/printablepanels)
+These are the panels I designed for the DIY modules in my system. It saves me some money (I think ±60,-) when buying PCB-sets. It also allows me to make my system look a little more visually consistent. In comparison to metal faceplates they're kinda flimsy, but the PCB on the back makes up for it. Feel free to download and print them for yr rack.
