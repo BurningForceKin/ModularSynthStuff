@@ -84,4 +84,5 @@ A utility module inspired by the MS-20. It features a glide, S&H and manual butt
 
 The module uses little parts, so the build will be really easy. The only part that is tricky to find is the LF398 IC. Luckily, I found one on Aliexpress. The button can be any single-pole momentary switch, as long as it fits the panel. I will design the panel for a Cherry switch.
 
-To Do: Test V1.
+V1 Notes: The glide works, but is a bit twitchy. (Make the cap smaller?) The button only works on the 0>5V side, but with a noticable delay when combined with a Doepfer EG. The LED is routed wrong :( The LF398 is yet to be tested. Als, the transistor/powerconverter footprints are wrong. And the Cherry switch needs to fit better.
+A total failure? Yes, but also no.
