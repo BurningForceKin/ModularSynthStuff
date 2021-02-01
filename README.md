@@ -93,4 +93,7 @@ These are the panels I designed for the DIY modules in my system. It saves me so
 
 
 # [DIY Case](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/DIYcase)
-Plans for a case with 50cm rails.
+Plans for a case with 50cm rails. I'm planning to build this sometime out of OSB plates. The back of the case has a big "SYNTHESIZER" print, so that normal people know wtf it is.
+
+![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/Case6u98HPfront.png) ![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/Case6u98HPback.png)
+
