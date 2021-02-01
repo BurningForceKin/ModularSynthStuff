@@ -93,15 +93,15 @@ These are the panels I designed for the DIY modules in my system. It saves me so
 
 Folder includes panels for:
 <ul>
-  - Kassutronics KS-20 VCF
-  - Kassutronics CEM3340 VCO
-  - Kassutronics ASR
-  - Frequency Central More VCAs
-  - Frequency Central Raging Bull VCF
-  - Frequency Central MethAmp Distortion
-  - Blank panel with poem by Nael
-  - Erica Synths MIDI to CV
-  - David Haillant's Simple VCO
+  <li> Kassutronics KS-20 VCF </li>
+  <li> Kassutronics CEM3340 VCO</li>
+  <li> Kassutronics ASR</li>
+  <li> Frequency Central More VCAs</li>
+  <li> Frequency Central Raging Bull VCF</li>
+  <li> Frequency Central MethAmp Distortion</li>
+  <li> Blank panel with poem by Nael</li>
+  <li> Erica Synths MIDI to CV</li>
+  <li> David Haillant's Simple VCO</li>
  </ul>
 
 
