@@ -90,3 +90,7 @@ A total failure? Yes, but also no.
 
 # [Printable Panels](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/printablepanels)
 These are the panels I designed for the DIY modules in my system. It saves me some money (I think ±60,-) when buying PCB-sets. It also allows me to make my system look a little more visually consistent. In comparison to metal faceplates they're kinda flimsy, but the PCB on the back makes up for it. Feel free to download and print them for yr rack.
+
+
+# [DIY Case](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/DIYcase)
+Plans for a case with 50cm rails.
