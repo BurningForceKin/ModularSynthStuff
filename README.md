@@ -91,6 +91,19 @@ A total failure? Yes, but also no.
 # [Printable Panels](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/printablepanels)
 These are the panels I designed for the DIY modules in my system. It saves me some money (I think ±60,-) when buying PCB-sets. It also allows me to make my system look a little more visually consistent. In comparison to metal faceplates they're kinda flimsy, but the PCB on the back makes up for it. Feel free to download and print them for yr rack.
 
+Folder includes panels for:
+<ul>
+  - Kassutronics KS-20 VCF
+  - Kassutronics CEM3340 VCO
+  - Kassutronics ASR
+  - Frequency Central More VCAs
+  - Frequency Central Raging Bull VCF
+  - Frequency Central MethAmp Distortion
+  - Blank panel with poem by Nael
+  - Erica Synths MIDI to CV
+  - David Haillant's Simple VCO
+ </ul>
+
 
 # [DIY Case](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/DIYcase)
 Plans for a case with 50cm rails. I'm planning to build this sometime out of OSB plates. The back of the case has a big "SYNTHESIZER" print, so that normal people know wtf it is.
