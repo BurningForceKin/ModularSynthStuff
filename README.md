@@ -10,6 +10,12 @@ If you have a 3D printer, you can save a few bucks by printing the panels. Just 
 There is still a lot of things to do, like ordering my own PCBs to test them (Yes, I still don't know if all the modules will work.) and opening a little shop to sell single boards/partial kits.
 
 
+# [DIY Case](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/DIYcase)
+Plans for a case with 50cm rails. I'm planning to build this sometime out of OSB plates. The back of the case has a big "SYNTHESIZER" print, so that normal people know wtf it is.
+
+![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/Case6u98HPfront.png) ![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/Case6u98HPback.png)
+
+
 # [Doei](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/HeadphoneOutV1)
 Doei is a headphone amp, based on the CMoy schematic. V1 ready to go! Now including a zine!
 
@@ -104,9 +110,6 @@ Folder includes panels for:
   <li> David Haillant's Simple VCO</li>
  </ul>
 
-
-# [DIY Case](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/DIYcase)
-Plans for a case with 50cm rails. I'm planning to build this sometime out of OSB plates. The back of the case has a big "SYNTHESIZER" print, so that normal people know wtf it is.
-
-![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/Case6u98HPfront.png) ![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/Case6u98HPback.png)
-
+# [Marble Hornet](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/marblehornet)
+I was messing with the Wasp filter to make it more unique until I found a few mods that worked. I renamed this version of the Wesp to Marble Hornet.
+This folder has a version in the Kosmo format. I'm not planning on ordering these big PCBs, so don't expect a revision. That said, I fixed all the bugs (lol) from the V1 Wesp, so it should work first try.
