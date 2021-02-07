@@ -65,8 +65,7 @@ The module is 5HP wide. A TL072 should work as well.
 You can also choose to download the PCB version of the panel.
 
 V1 Test notes: The pot is reversed :( It hase the same SPDT footprint as PACO!, so make sure you use a switch with round legs. Alternatively, you can connect the lower two pins on the switch's footprint, so it's always on. That way can ditch the switch altogether. Also, the position of the switch makes it look a little weird...
-
-To Do: Make PCb 4HP. Add LED clipping. Reverse pot. Redesign panel.
+V2 Notes: All bugs are fixed, everything works! I'm using blue clipping LEDs, but red ones are probably better.
 
 
 # [Wesp](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/Wesp)
