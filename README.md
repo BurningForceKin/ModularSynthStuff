@@ -57,6 +57,9 @@ I added some files for people who want to make a Through-hole Braids. You can do
 
 
 # [Distortion](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/Distortion)
+
+![image](https://github.com/BurningForceKin/ModularSynthStuff/blob/gh-pages/images/DISTFOTO.png)
+
 A straight-forward distortion module to bring a bit more character to your boring oscillators. The circuit is based on Niklas Ronnberg's distortion. My version removes the hardclipping (now it only does softclipping) and adds a bypass switch.
 
 Link: http://familjenronnberg.se/~niklas/diy/eurorack/dist/
