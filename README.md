@@ -7,7 +7,9 @@ These PCBs are made in Kicad.
 You can use the zipped Gerber files to order these PCBs from a manufacturer (I use JLCPCB). Be aware that you need to order more than one copy of a PCB.
 If you have a 3D printer, you can save a few bucks by printing the panels. Just download the STL files.
 
-There is still a lot of things to do, like ordering my own PCBs to test them (Yes, I still don't know if all the modules will work.) and opening a little shop to sell single boards/partial kits.
+There is still a lot of things to do, like ordering my own PCBs to test them (Yes, I still don't know if all the modules will work.).
+
+[You can now visit the shop!!!](https://www.tindie.com/stores/tswts/)
 
 
 # [DIY Case](https://github.com/BurningForceKin/ModularSynthStuff/tree/gh-pages/DIYcase)
